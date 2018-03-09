@@ -1,0 +1,48 @@
+.map {
+  display: flex;
+  width: 800px;
+  height: 800px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+}
+
+.rect {
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+  border: 1px solid gainsboro;
+}
+
+.nocell {
+  background: lightgrey;
+}
+
+.cell {
+  background: darkgoldenrod;
+}
+
+.title {
+  margin: 10px;
+  font-size: 40px;
+  text-align: center;
+  text-shadow: 2px 2px 2px lightgrey;
+}
+
+.bar {
+  width: 800px;
+  font-size: 20px;
+  margin: 10px auto;
+}
+
+.speed {
+  float: right;
+}
+
+.button {
+  width: 100px;
+  outline: none;
+  border-radius: 5px;
+  font-size: inherit;
+  margin-right: 10px;
+  font-family: inherit;
+}
