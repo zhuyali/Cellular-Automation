@@ -2,6 +2,7 @@
   "name": "Cellular-Automation",
   "version": "0.0.1",
   "private": true,
+  "homepage" : "http://zhuyali.com.cn/Cellular-Automation",
   "dependencies": {
     "lodash": "^4.17.5",
     "react": "^16.2.0",
